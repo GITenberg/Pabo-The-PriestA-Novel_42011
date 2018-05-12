@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1766
     wikipedia: http://en.wikipedia.org/wiki/Sabine_Baring-Gould
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42011#Pabo-The-PriestA-Novel
 gutenberg_issued: '2013-02-04'
 gutenberg_type: Text
 identifiers:
